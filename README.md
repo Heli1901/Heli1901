@@ -3,8 +3,8 @@
 - ## 🚀 About Me
 hello i m heli patel, my major is graphic design in SAIT college
 
-- I’m currently working on [web communication]
-- I’m currently learning [graphic design]
+- I’m currently working on [assignment on github]
+- I’m currently learning [web communication]
 - I’m looking to collaborate on [Open Source Project or Area of Interest]
 - Ask me about [Something you are knowledgeable about]
 - How to reach me: [HeliJagdishbhai.Patel@edu.sait.ca]
