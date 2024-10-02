@@ -8,7 +8,7 @@ hello i m heli patel, my major is graphic design in SAIT college
 - I’m looking to collaborate on [Open Source Project or Area of Interest]
 - Ask me about [Something you are knowledgeable about]
 - How to reach me: [HeliJagdishbhai.Patel@edu.sait.ca]
-- Fun fact: [A fun fact about yourself]
+- Fun fact: [i dont like to study but i have to do]
 - Pronouns: [she/her]
 - linked profile[www.linkedin.com/in/heli-patel-053409329]
 - ![Alt Text](https://pixabay.com/images/search/dog/)
