@@ -3,15 +3,16 @@
 - ## 🚀 About Me
 hello i m heli patel, my major is graphic design in SAIT college
 
-- I’m currently working on [assignment on github]
-- I’m currently learning [web communication]
+- I’m currently working on [assignment1 on github]
+- I’m currently learning [introduction to web communication]
 - I’m looking to collaborate on [Open Source Project or Area of Interest]
 - Ask me about [Something you are knowledgeable about]
 - How to reach me: [HeliJagdishbhai.Patel@edu.sait.ca]
-- Fun fact: [i dont like to study but i have to do]
+- Fun fact: [bananas are berries, but strawberries aren't! ]
 - Pronouns: [she/her]
 - linked profile[www.linkedin.com/in/heli-patel-053409329]
-- ![Alt Text](https://pixabay.com/images/search/dog/)
+
+
   
 
 ## 🛠️ My Skills
